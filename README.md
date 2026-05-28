@@ -148,4 +148,10 @@ The platform provides:
 
 # 📄 License
 
-This project is developed for educational and research purposes.
+Copyright (c) 2026 Karthik Ravi
+
+All Rights Reserved.
+
+This project, including its architecture, workflows, machine learning models, implementation methods, concepts, design patterns, datasets, and project ideas related to Spam Sense Analyzer, is the intellectual property of the author.
+
+No part of this project may be copied, modified, reproduced, distributed, published, or used in any form without prior written permission from the author.
