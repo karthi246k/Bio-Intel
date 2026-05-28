@@ -16,6 +16,14 @@ The platform provides:
 
 ---
 
+## Source Code Notice 
+
+Source code is not publicly available.
+
+This repository is intended for showcasing project features, screenshots, and documentation only.
+
+---
+
 # Features
 
 ##  Disease Prediction System
